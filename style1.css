@@ -1,0 +1,345 @@
+body
+{
+    margin: 0px;
+}
+.sec2{
+   
+    text-align: center;
+    background-image: url(pic1.webp);
+    background-size: cover;
+}
+.trans{
+    padding: 200px 0px;
+    background-color: rgba(0, 0, 0, 0.250);
+}
+a.ctn-butn1{
+    text-decoration: none;
+    background-color: rgb(218, 147, 16);
+    padding: 15px 20px;
+    color: white;
+    margin-top: 20px;
+    display: inline-block;
+}
+.box1 h1{
+    font-size: 80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.box1 h4{
+    color: white;
+}
+.sec3{
+    padding: 20px 0px;
+    text-align: center;
+    background-size: cover;
+    background-color: black;
+}
+.inbox1,.inbox2,.inbox3{
+    color: white;
+}
+.line1{
+    width: 80%;
+    height: 2px;
+    background-color: white;
+}
+.line2{
+    width: 100%;
+    height: 2px;
+    background-color: white;
+}
+/* .box1{
+    padding: 10px 70px;
+}
+.sect2{
+    background-image: url();
+}  */
+
+.inbox1{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    min-height: 300px;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.inbox2{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    min-height: 300px;
+    flex-direction: column;
+}
+.inbox3{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    min-height: 300px;
+    flex-direction: column;
+    gap: 20px;
+}
+.sec4{
+    /* padding: 150px 0px; */
+    text-align: center;
+    background-image: url(pic2.jpg);
+    background-size: cover;
+    background-color: black;
+    
+}
+.box2 h1{
+    font-size: 75px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+.box2 h4{
+    color: white;
+
+}
+a.ctn-butn2{
+    text-decoration: none;
+    background-color: rgb(218, 147, 16);
+    padding: 10px 15px;
+    color: white;
+    margin-top: 20px;
+    display: inline-block;
+    border-radius: 10px;
+}
+.sec5{
+    /* padding: 150px 0px; */
+    text-align: center;
+    background-image: url(pic6.jpg);
+    background-size: cover;
+    background-color: black;
+    
+}
+.box3 h1{
+    font-size: 75px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+.box3 h4{
+    color: white;
+
+}
+a.ctn-butn3{
+    text-decoration: none;
+    background-color: rgb(218, 147, 16);
+    padding: 10px 15px;
+    color: white;
+    margin-top: 20px;
+    display: inline-block;
+    border-radius: 10px;
+}
+.sec6{
+    /* padding: 20px 0px; */
+    text-align: center;
+    background-size: cover;
+    background-image: url(pic17.webp);
+    background-position: bottom;
+    /* background-color: rgb(189, 186, 186); */
+}
+.trans2{
+    /* padding: 200px 0px; */
+    background-color: rgba(189, 186, 186, 0.89);
+}
+.sec7{
+    /* padding: 150px 0px; */
+    text-align: center;
+    background-image: url(pic7.webp);
+    background-size: cover;
+    background-color: black;
+    
+}
+.box4 h1{
+    font-size: 75px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+.box4 h4{
+    color: white;
+
+}
+a.ctn-butn2{
+    text-decoration: none;
+    background-color: rgb(218, 147, 16);
+    padding: 10px 15px;
+    color: white;
+    margin-top: 20px;
+    display: inline-block;
+    border-radius: 10px;
+}
+.sec8{
+    /* padding: 150px 0px; */
+    text-align: center;
+    background-image: url(pic9.jpeg);
+    background-size: cover;
+    background-color: black;
+    
+}
+.box5 h1{
+    font-size: 75px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+.box5 h4{
+    color: white;
+
+}
+a.ctn-butn3{
+    text-decoration: none;
+    background-color: rgb(218, 147, 16);
+    padding: 10px 15px;
+    color: white;
+    margin-top: 20px;
+    display: inline-block;
+    border-radius: 10px;
+}
+.sec9{
+    /* padding: 20px 0px; */
+    text-align: center;
+    background-size: cover;
+    background-color:   rgb(214, 168, 98);
+    /* background-image: url(pic11.jpg); */
+    background-position: center;
+    background-image: url(pic14.jpg);
+}
+.trans1{
+    /* padding: 200px 0px; */
+    background-color: rgba(214, 168, 98, 0.788);
+}
+.sec10{
+    /* padding: 150px 0px; */
+    text-align: center;
+    background-image: url(pic10.webp);
+    background-size: cover;
+    background-color: black;
+    
+}
+.box6 h1{
+    font-size: 75px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+.box6 h4{
+    color: white;
+
+}
+a.ctn-butn2{
+    text-decoration: none;
+    background-color: rgb(218, 147, 16);
+    padding: 10px 15px;
+    color: white;
+    margin-top: 20px;
+    display: inline-block;
+    border-radius: 10px;
+}
+.sec11{
+    /* padding: 20px 0px; */
+    text-align: center;
+    background-size: cover;
+    background-color:   rgba(0, 0, 0, 0.74);
+    /* background-image: url(pic11.jpg); */
+    background-position: top;
+    /* margin-top: 15px; */
+    
+}
+.inbox5{
+    display: flex;
+    /* justify-content: center; */
+    /* align-self: center; */
+    min-height: 300px;
+    margin-top: 45px;
+    flex-direction: column;
+    gap: 20px;
+    /* padding: 20px 25px; */
+}
+
+.inbox6{
+    display: flex;
+    /* justify-content: center; */
+    /* align-self: center; */
+    margin-top: 50px;
+    min-height: 300px;
+    flex-direction: column;
+}
+.inbox7{
+    display: flex;
+    /* justify-content: center; */
+    /* align-self: center; */
+    margin-top: 50px;
+    min-height: 300px;
+    flex-direction: column;
+    gap: 20px;
+}
+.inbox8{
+    display: flex;
+    /* justify-content: center; */
+    /* align-self: center; */
+    margin-top: 50px;
+    min-height: 300px;
+    flex-direction: column;
+    gap: 20px;
+}
+.box5 h1{
+    font-size: 80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+.inbox6 h3{
+    font-size: 80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+.mylist{
+    color: rgb(175, 175, 175);
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style-image: url(pic12.png);
+}
+.inbox6 h2{
+    color: white;
+}
+.inbox7 h2{
+    color: white;
+}
+.inbox8{
+    color:  rgb(175, 175, 175);
+}
+.inbox8 h2{
+    color: white;
+}
+a.ctn-butn2{
+    text-decoration: none;
+    background-color: rgb(218, 147, 16);
+    padding: 10px 15px;
+    color: white;
+    margin-top: 10px;
+    display: inline-block;
+    border-radius: 10px;
+}
+.sec12{
+    /* padding: 150px 0px; */
+    /* text-align: center; */
+    /* background-image: url(pic10.webp); */
+    background-size: cover;
+    background-color: black;
+    height: 75px;
+    position: relative;
+}
+.inbox9 p{
+    color: rgba(255, 255, 255, 0.699);
+    bottom: 20px;
+}
+.inbox10{
+    text-align: right;
+   
+}
+.trans4{
+    background-color: rgba(0, 0, 0, 0.678);
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    height: 100%;
+    width: 100%;
+}
